@@ -1,0 +1,4 @@
+ofxAudioFile
+ofxGui
+ofxSoundObjects
+ofxSoundBiquadFilter
