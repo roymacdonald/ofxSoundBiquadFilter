@@ -1,5 +1,5 @@
 # ofxSoundBiquadFilter
-## Sound biquad filter for openFrameworks using ofxSoundObjects.
+## Sound biquad filter for [openFrameworks](https://openframeworks.cc/) using [ofxSoundObjects](https://github.com/roymacdonald/ofxSoundObjects).
 
 ### Dependencies
 * [ofxSoundObjects](https://github.com/roymacdonald/ofxSoundObjects)
